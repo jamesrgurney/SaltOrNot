@@ -1,0 +1,5 @@
+conda env is call 
+
+conda create -n salinity python=3.11 -y
+conda activate salinity
+pip install datasets biopython pandas tqdm requests
